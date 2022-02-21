@@ -1,4 +1,4 @@
-# UE4_NierExplosion
+# NierExplosion
 
 Realtime explosion effect (NieR style) in Unreal Engine 4 (with Houdini and Embergen).
 
